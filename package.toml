@@ -1,14 +1,14 @@
 [[plugin.deps]]
 use = "dedukun/relative-motions"
-rev = "8103065"
-hash = "9f13f0740fa3a0c18e47ec6fb62ddfaa"
+rev = "ce2e890"
+hash = "23915860e59348bf4166778bb0e606f7"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
-rev = "b929df6"
+rev = "68326b4"
 hash = "2ac87e1b3a61f5887472899e86535d29"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-latte"
-rev = "b929df6"
+rev = "68326b4"
 hash = "5dffea1e87c50b18b8bb1599f6d4881a"
