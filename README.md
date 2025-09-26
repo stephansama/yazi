@@ -12,3 +12,9 @@ configuration for [`yazi`](https://yazi-rs.github.io/). a tui file explorer
 
 - [`catppuccin`](https://github.com/catppuccin/yazi)
 - [`relative-motions.yazi`](https://github.com/dedukun/relative-motions.yazi)
+
+<div align="center">
+
+Copyright © 2025-present [`@stephansama`](https://github.com/stephansama)
+
+</div>
